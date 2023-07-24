@@ -2,4 +2,3 @@
 *.md linguist-documentation=false
 *.md linguist-language=Markdown
 *.json linguist-detectable=true
-*.tsx linguist-detectable=true
